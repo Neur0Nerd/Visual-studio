@@ -27,13 +27,20 @@ namespace BackToBasics
             foreach (Poney PWN in poney_list)
             {
                 PWN.display();
-                while ()
+                for (int i = 0; i < space; i++)
                 {
-
+                    Console.Write(" ");
                 }
+            }
         }
 
-        public void add_gold(int nb);
-        public void add_poney(Poney poney);
+        public void add_gold(int nb)
+        {
+            gold += nb;
+        }
+        public void add_poney(Poney poney)
+        {
+            poney_list.Add(poney);
+        }
     }
 }
