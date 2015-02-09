@@ -9,7 +9,7 @@ namespace BackToBasics
     class Shop
     {
 
-        private List<Poney> poney_list;
+        private List<Pony> pony_list;
         private int space;
         public int gold;
         public string name;
@@ -18,14 +18,14 @@ namespace BackToBasics
         {
             this.name = name;
             this.gold = gold;
-            poney_list = new List<Poney>();
+            pony_list = new List<Pony>();
         }
 
         public void display()
         {
             Random rdm = new Random();
             space = rdm.Next(1,4);
-            foreach (Poney PWN in poney_list)
+            foreach (Pony PWN in pony_list)
             {
                 PWN.display();
                 Console.Write("|");
@@ -36,16 +36,16 @@ namespace BackToBasics
         {
             gold += nb;
         }
-        public void add_poney(Poney poney)
+        public void add_poney(Pony pony)
         {
-            poney_list.Add(poney);
+            pony_list.Add(pony);
         }
 
-        public Poney get_poney()
+        public Pony get_pony()
         {
-            Poney poney_temp = poney_list[poney_list.Count - 1];
-            poney_list.RemoveAt(poney_list.Count - 1);
-            return poney_temp;
+            Pony pony_temp = pony_list[pony_list.Count - 1];
+            pony_list.RemoveAt(pony_list.Count - 1);
+            return pony_temp;
         }
     }
 }

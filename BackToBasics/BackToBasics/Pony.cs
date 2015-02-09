@@ -6,21 +6,26 @@ using System.Threading.Tasks;
 
 namespace BackToBasics
 {
-    class Poney
+    class Pony
     {
+        static Random Rdm = new Random();
         private int length;
-        public Poney(ConsoleColor couleur)
+        public ConsoleColor couleur;
+
+
+        public Pony(ConsoleColor couleur)
         {
             ConsoleColor cache = Console.ForegroundColor;
-            Console.ForegroundColor = couleur;
-            Random Rdm = new Random();
+            this.couleur = couleur;
             length = Rdm.Next(2, 10);
         }
         public void display()
         {
+            Console.ForegroundColor = couleur;
             Console.Write(".");
             Console.Write(new string ('=',length));
             Console.Write(".°");
+            Console.ForegroundColor = ConsoleColor.White;
         }
     }
 }

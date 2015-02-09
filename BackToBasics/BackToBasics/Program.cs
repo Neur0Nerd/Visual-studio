@@ -10,9 +10,18 @@ namespace BackToBasics
     {
         static void Main(string[] args)
         {
-            //Pony ShowMeYourPoneys = new Pony(ConsoleColor.Magenta);
-            //ShowMeYourPoneys.display();
-            //Console.Read();
+            Pony ShowMeYourPonys = new Pony(ConsoleColor.Magenta);
+            ShowMeYourPonys.display();
+
+            Farm ferme = new Farm("Toto", 9000);
+            ferme.add_pony(ShowMeYourPonys);
+            ferme.add_pony(new Pony(ConsoleColor.Red));
+            ferme.add_pony(new Pony(ConsoleColor.White));
+            ferme.add_pony(new Pony(ConsoleColor.Yellow));
+
+            ferme.display();
+
+            Console.Read();
         }
     }
 }
