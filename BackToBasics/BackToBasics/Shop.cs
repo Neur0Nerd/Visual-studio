@@ -8,7 +8,7 @@ namespace BackToBasics
 {
     class Shop
     {
-
+        tamer
         private List<Poney> poney_list;
         private int space;
         public int gold;
