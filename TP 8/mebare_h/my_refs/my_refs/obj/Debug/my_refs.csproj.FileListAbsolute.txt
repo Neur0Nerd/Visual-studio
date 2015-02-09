@@ -1,0 +1,6 @@
+C:\Users\epita\Documents\TP 8\mebare_h\my_refs\my_refs\bin\Debug\my_refs.exe.config
+C:\Users\epita\Documents\TP 8\mebare_h\my_refs\my_refs\bin\Debug\my_refs.exe
+C:\Users\epita\Documents\TP 8\mebare_h\my_refs\my_refs\bin\Debug\my_refs.pdb
+C:\Users\epita\Documents\TP 8\mebare_h\my_refs\my_refs\obj\Debug\my_refs.csprojResolveAssemblyReference.cache
+C:\Users\epita\Documents\TP 8\mebare_h\my_refs\my_refs\obj\Debug\my_refs.exe
+C:\Users\epita\Documents\TP 8\mebare_h\my_refs\my_refs\obj\Debug\my_refs.pdb

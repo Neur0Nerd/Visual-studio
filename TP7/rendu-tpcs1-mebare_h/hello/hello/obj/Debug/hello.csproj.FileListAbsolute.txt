@@ -1,0 +1,6 @@
+C:\Users\epita\Documents\TP7\rendu-tpcs1-mebare_h\hello\hello\bin\Debug\hello.exe.config
+C:\Users\epita\Documents\TP7\rendu-tpcs1-mebare_h\hello\hello\bin\Debug\hello.exe
+C:\Users\epita\Documents\TP7\rendu-tpcs1-mebare_h\hello\hello\bin\Debug\hello.pdb
+C:\Users\epita\Documents\TP7\rendu-tpcs1-mebare_h\hello\hello\obj\Debug\hello.csprojResolveAssemblyReference.cache
+C:\Users\epita\Documents\TP7\rendu-tpcs1-mebare_h\hello\hello\obj\Debug\hello.exe
+C:\Users\epita\Documents\TP7\rendu-tpcs1-mebare_h\hello\hello\obj\Debug\hello.pdb

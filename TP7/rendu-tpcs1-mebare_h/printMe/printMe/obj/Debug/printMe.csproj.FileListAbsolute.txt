@@ -1,0 +1,6 @@
+C:\Users\epita\Documents\TP7\rendu-tpcs1-mebare_h\printMe\printMe\bin\Debug\printMe.exe.config
+C:\Users\epita\Documents\TP7\rendu-tpcs1-mebare_h\printMe\printMe\bin\Debug\printMe.exe
+C:\Users\epita\Documents\TP7\rendu-tpcs1-mebare_h\printMe\printMe\bin\Debug\printMe.pdb
+C:\Users\epita\Documents\TP7\rendu-tpcs1-mebare_h\printMe\printMe\obj\Debug\printMe.csprojResolveAssemblyReference.cache
+C:\Users\epita\Documents\TP7\rendu-tpcs1-mebare_h\printMe\printMe\obj\Debug\printMe.exe
+C:\Users\epita\Documents\TP7\rendu-tpcs1-mebare_h\printMe\printMe\obj\Debug\printMe.pdb

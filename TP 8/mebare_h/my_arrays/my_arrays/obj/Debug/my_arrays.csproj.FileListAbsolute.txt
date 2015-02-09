@@ -1,0 +1,6 @@
+C:\Users\epita\Documents\TP 8\mebare_h\my_arrays\my_arrays\bin\Debug\my_arrays.exe.config
+C:\Users\epita\Documents\TP 8\mebare_h\my_arrays\my_arrays\bin\Debug\my_arrays.exe
+C:\Users\epita\Documents\TP 8\mebare_h\my_arrays\my_arrays\bin\Debug\my_arrays.pdb
+C:\Users\epita\Documents\TP 8\mebare_h\my_arrays\my_arrays\obj\Debug\my_arrays.exe
+C:\Users\epita\Documents\TP 8\mebare_h\my_arrays\my_arrays\obj\Debug\my_arrays.pdb
+C:\Users\epita\Documents\TP 8\mebare_h\my_arrays\my_arrays\obj\Debug\my_arrays.csprojResolveAssemblyReference.cache

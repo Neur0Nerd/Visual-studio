@@ -1,0 +1,6 @@
+C:\Users\epita\Documents\GitHub\TP\BackToBasics\BackToBasics\bin\Debug\BackToBasics.exe.config
+C:\Users\epita\Documents\GitHub\TP\BackToBasics\BackToBasics\obj\Debug\BackToBasics.csprojResolveAssemblyReference.cache
+C:\Users\epita\Documents\GitHub\TP\BackToBasics\BackToBasics\bin\Debug\BackToBasics.exe
+C:\Users\epita\Documents\GitHub\TP\BackToBasics\BackToBasics\bin\Debug\BackToBasics.pdb
+C:\Users\epita\Documents\GitHub\TP\BackToBasics\BackToBasics\obj\Debug\BackToBasics.exe
+C:\Users\epita\Documents\GitHub\TP\BackToBasics\BackToBasics\obj\Debug\BackToBasics.pdb

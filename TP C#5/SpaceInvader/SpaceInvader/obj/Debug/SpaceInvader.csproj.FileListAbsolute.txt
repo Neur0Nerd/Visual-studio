@@ -1,0 +1,1 @@
+C:\Users\epita\Documents\TP C#5\SpaceInvader\SpaceInvader\bin\Debug\SpaceInvader.exe.config

@@ -1,0 +1,122 @@
+(*------------- Palier 0 -------------*)
+
+
+(*0.1*)
+
+let gen_list n =
+if n < 0 then invalid_arg "n<0"
+else let rec gen_list n = match n with
+  |0 -> []
+  |_ -> 0 :: gen_list(n-1)
+     in
+gen_list n ;;
+
+gen_list 10;;
+
+(*0.2*)
+
+let gen_rand_list n =
+if n < 0 then invalid_arg "n<0"
+else let rec gen_rand_list n = match n with
+  |0 -> []
+  |_ -> Random.int(2) :: gen_rand_list(n-1)
+     in
+gen_rand_list n ;;
+
+gen_rand_list 10;;
+
+(*0.3*)
+
+let gen_board n =
+if n < 0 then failwith "n<0"
+else  let rec gen = function
+  |0 -> []
+  |a -> gen_list n ::gen (a-1)
+     in
+gen n;;
+
+gen_board 4 ;;
+
+
+let gen_rand_board n =
+if n < 0 then invalid_arg "n<0"
+else let rec gen_rand_board n = match n with
+  |0 -> []
+  |_ -> [Random.int(2);Random.int(2);Random.int(2)]::gen_rand_board(n-1)
+     in
+gen_rand_board n;;
+
+gen_rand_board 3;;
+
+
+(*------------- Palier 1 -------------*)
+
+(*1.1*)
+
+let cell_count list =
+  let rec compte list acc = match list with
+  |[] -> acc
+  |e::list when e>0 -> compte list (acc+1)
+  |e::list when e=0 -> compte list (acc)
+ in
+compte list 0 ;;
+
+cell_count [0;1;0;1;0;0;0;0;1;1];;
+
+(*1.2*)
+
+let remaining list =
+  let rec compte list acc = match list with
+  |[] -> acc
+  |e::list -> compte list (acc + cell_count e)
+ in
+compte list 0 ;;
+
+remaining [[0;1;0];[1;1;0];[0;0;1]];;
+
+
+
+(*------------- Palier 2 -------------*)
+
+(*2.1*)
+
+#load "graphics.cma";;
+open Graphics;;
+open_graph "1000*1000" ;;
+
+let draw_square (x,y) size =
+draw_rect x y size size ;;
+
+draw_square (50,50) 50;;
+
+
+(*2.2*)
+
+let draw_fill_square (x,y) size color=
+open_graph "1000*1000";
+set_color color;
+fill_rect x y size size;;
+
+draw_fill_square (50,50) 50 blue;;
+
+
+(*2.3*)
+
+let draw_cell (x,y) size cell = match cell with
+  |0 -> draw_fill_square (x,y) size white
+  |1 -> draw_fill_square (x,y) size black
+  |_ -> failwith "Not a cell";;
+
+draw_cell (50,50) 50 1;;
+
+
+(*2.4*)
+
+let draw_board (x,y) size cell =
+  let rec inspect cell = match cell with
+    |_ -> failwith "Not a cell"
+    |[] -> e::cell
+    |e::a::cell when e = 0 -> draw_fill_square (x,y) size white
+    |e::a::cell when e = 1 -> draw_fill_square (x,y) size black
+  in
+gen
