@@ -12,7 +12,6 @@ namespace BackToBasics
         private int length;
         public ConsoleColor couleur;
 
-
         public Pony(ConsoleColor couleur)
         {
             ConsoleColor cache = Console.ForegroundColor;
