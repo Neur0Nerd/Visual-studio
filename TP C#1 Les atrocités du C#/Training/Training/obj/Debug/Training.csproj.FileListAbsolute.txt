@@ -1,0 +1,12 @@
+C:\Users\epita\Documents\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Training\Training\bin\Debug\Training.exe.config
+C:\Users\epita\Documents\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Training\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
+C:\Users\epita\Documents\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Training\Training\bin\Debug\Training.exe
+C:\Users\epita\Documents\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Training\Training\bin\Debug\Training.pdb
+C:\Users\epita\Documents\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Training\Training\obj\Debug\Training.exe
+C:\Users\epita\Documents\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Training\Training\obj\Debug\Training.pdb
+C:\Users\Neur0\Desktop\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Training\Training\bin\Debug\Training.exe.config
+C:\Users\Neur0\Desktop\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Training\Training\obj\Debug\Training.exe
+C:\Users\Neur0\Desktop\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Training\Training\obj\Debug\Training.pdb
+C:\Users\Neur0\Desktop\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Training\Training\bin\Debug\Training.exe
+C:\Users\Neur0\Desktop\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Training\Training\bin\Debug\Training.pdb
+C:\Users\Neur0\Desktop\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Training\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache

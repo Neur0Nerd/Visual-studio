@@ -1,0 +1,6 @@
+C:\Users\epita\Documents\GitHub\Visual-Studio\Game\Game\bin\Debug\Game.exe.config
+C:\Users\epita\Documents\GitHub\Visual-Studio\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\epita\Documents\GitHub\Visual-Studio\Game\Game\bin\Debug\Game.exe
+C:\Users\epita\Documents\GitHub\Visual-Studio\Game\Game\bin\Debug\Game.pdb
+C:\Users\epita\Documents\GitHub\Visual-Studio\Game\Game\obj\Debug\Game.exe
+C:\Users\epita\Documents\GitHub\Visual-Studio\Game\Game\obj\Debug\Game.pdb
