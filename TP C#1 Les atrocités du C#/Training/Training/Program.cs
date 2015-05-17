@@ -13,7 +13,8 @@ namespace Training
             Console.Read();
         }
 
-        static int MyFact (int n)
+
+        static int MyFact(int n)
         {
             if (n < 0)
             {
@@ -32,9 +33,9 @@ namespace Training
             }
         }
 
-        static int MyPow (int x, int n)
+        static int MyPow(int x, int n)
         {
-            if (x<0 || n<0)
+            if (x < 0 || n < 0)
             {
                 Console.WriteLine("Please choose numbers superior to");
                 return 0;
@@ -80,20 +81,20 @@ namespace Training
             }
         }
 
-        static int MyFibo (int n)
+        static int MyFibo(int n)
         {
-            if (n<0)
+            if (n < 0)
             {
                 Console.WriteLine("Please write a number superior to");
                 return 0;
             }
             else
             {
-                if (n==0)
+                if (n == 0)
                 {
                     return 0;
                 }
-                if (n==1)
+                if (n == 1)
                 {
                     return 1;
                 }
@@ -103,9 +104,22 @@ namespace Training
                 }
             }
         }
-        static float MySqrt (int n)
-        {
 
+        static bool MyIsPalindrome(string str)
+        {
+            int len = str.Length - 1;
+            for (int i = 0; i < len; i++)
+            {
+                if (str[i] == str[len])
+                {
+                    len--;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            return true;
         }
     }
 }

@@ -1,1 +1,6 @@
 C:\Users\epita\Documents\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Motifs\Motifs\bin\Debug\Motifs.exe.config
+C:\Users\Neur0\Desktop\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Motifs\Motifs\bin\Debug\Motifs.exe.config
+C:\Users\Neur0\Desktop\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Motifs\Motifs\bin\Debug\Motifs.exe
+C:\Users\Neur0\Desktop\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Motifs\Motifs\bin\Debug\Motifs.pdb
+C:\Users\Neur0\Desktop\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Motifs\Motifs\obj\Debug\Motifs.exe
+C:\Users\Neur0\Desktop\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Motifs\Motifs\obj\Debug\Motifs.pdb

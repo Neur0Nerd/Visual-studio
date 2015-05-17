@@ -1,1 +1,7 @@
 C:\Users\epita\Documents\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Bulls\Bulls\bin\Debug\Bulls.exe.config
+C:\Users\Neur0\Desktop\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Bulls\Bulls\bin\Debug\Bulls.exe.config
+C:\Users\Neur0\Desktop\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Bulls\Bulls\bin\Debug\Bulls.exe
+C:\Users\Neur0\Desktop\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Bulls\Bulls\bin\Debug\Bulls.pdb
+C:\Users\Neur0\Desktop\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Bulls\Bulls\obj\Debug\Bulls.csprojResolveAssemblyReference.cache
+C:\Users\Neur0\Desktop\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Bulls\Bulls\obj\Debug\Bulls.exe
+C:\Users\Neur0\Desktop\GitHub\Visual-Studio\TP C#1 Les atrocités du C#\Bulls\Bulls\obj\Debug\Bulls.pdb
