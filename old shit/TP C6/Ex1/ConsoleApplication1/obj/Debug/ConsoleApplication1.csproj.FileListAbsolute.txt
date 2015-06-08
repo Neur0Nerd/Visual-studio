@@ -1,1 +1,2 @@
 C:\Users\epita\Documents\TP C6\Ex1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Neur0\Documents\GitHub\Visual-studio\old shit\TP C6\Ex1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
