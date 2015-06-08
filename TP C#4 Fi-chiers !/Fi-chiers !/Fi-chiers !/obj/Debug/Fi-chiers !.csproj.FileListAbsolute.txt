@@ -1,0 +1,6 @@
+c:\users\neur0\documents\visual studio 2013\Projects\Fi-chiers !\Fi-chiers !\bin\Debug\Fi-chiers !.exe.config
+c:\users\neur0\documents\visual studio 2013\Projects\Fi-chiers !\Fi-chiers !\bin\Debug\Fi-chiers !.exe
+c:\users\neur0\documents\visual studio 2013\Projects\Fi-chiers !\Fi-chiers !\bin\Debug\Fi-chiers !.pdb
+c:\users\neur0\documents\visual studio 2013\Projects\Fi-chiers !\Fi-chiers !\obj\Debug\Fi-chiers !.csprojResolveAssemblyReference.cache
+c:\users\neur0\documents\visual studio 2013\Projects\Fi-chiers !\Fi-chiers !\obj\Debug\Fi-chiers !.exe
+c:\users\neur0\documents\visual studio 2013\Projects\Fi-chiers !\Fi-chiers !\obj\Debug\Fi-chiers !.pdb
